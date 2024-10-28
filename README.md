@@ -1,7 +1,8 @@
 # PSP官方固件合集
+# PSP 1000-3000 系统修复包
 # PSP 6.60 破解固件
 # PSP 6.61 破解固件
-# 非GO型号
+# 非GO型号，非E1000型号
 # 地址：
 * baryonsweeper : https://github.com/khubik2/pysweeper
 * aiseirigh : https://github.com/DaveeFTW/aiseirigh/ , https://www.mediafire.com/file/16nfevr0v77e8m0/aiseirigh.ipl/file
