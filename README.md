@@ -8,10 +8,11 @@
 * aiseirigh : https://github.com/DaveeFTW/aiseirigh/ , https://www.mediafire.com/file/16nfevr0v77e8m0/aiseirigh.ipl/file
 * ARK-4 : https://github.com/PSP-Archive/ARK-4
 * DC9 : https://github.com/balika011/DC-M33/releases
-* Chronoswitch : https://github.com/DaveeFTW/Chronoswitch
+* Chronoswitch : https://github.com/DaveeFTW/Chronoswitch , https://github.com/PSP-Archive/Chronoswitch
 * psptool : https://github.com/krazynez/psptool
 * PSP-Everest : https://github.com/joel16/PSP-Everest
 * PRO : https://code.google.com/archive/p/procfw/
 * PRO ZH_CN : https://github.com/hz86/procfw-chn
 * ME : https://wololo.net/talk/viewtopic.php?f=17&t=38203&sid=09696a4f1e96a8664cd76b9e1e013608
 * infinity : https://infinity.lolhax.org/
+
